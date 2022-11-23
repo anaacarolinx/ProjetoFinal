@@ -31,16 +31,7 @@ header .navegation li a:hover{
     color: #410096;
 }
 
-.box {
-    display: flex;
-    box-shadow: 0px 0px 10px 4px rgb(178, 178, 178);
-    border-radius: 5px;
-    padding: 10px;
-	margin-top: 250px;
-    align-items: center;
-    justify-content: center;
-    flex-direction: row;
-}
+
 .user{
     width: auto;
     height: auto;
@@ -94,6 +85,16 @@ header .navegation li a:hover{
     padding-left: 110px;
 }
 
+.box {
+    display: flex;
+    box-shadow: 0px 0px 10px 4px rgb(178, 178, 178);
+    border-radius: 5px;
+    padding: 10px;
+    margin-top: 250px;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
 .informations h2{
     text-align: center;
     letter-spacing: 5px;
